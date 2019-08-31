@@ -9,7 +9,7 @@ The website contains the following sub-headings:
 * Partner
 * Contact
 
-Also it has two additional pages for **Checkout** and **Payment** which is the preceded by a **JS Shopping Cart**, a useful too for e-commerce websites.
+Also it has two additional pages for **Checkout** and **Payment** which is the preceded by a **JS Shopping Cart**, a useful tool for e-commerce websites.
 
 ## About TarzQ
 
